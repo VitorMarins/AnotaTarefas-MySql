@@ -1,5 +1,5 @@
 {
-  "name": "api-crud",
+  "name": "api-anotatarefas",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
@@ -10,7 +10,7 @@
   },
   "author": "Vitor Marins",
   "license": "ISC",
-  "description": "",
+  "description": "Uma API de uma aplicação To-do list.",
   "dependencies": {
     "cors": "^2.8.5",
     "express": "^4.19.2",
